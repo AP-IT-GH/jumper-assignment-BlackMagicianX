@@ -33,7 +33,8 @@
 3. In Unity, click on Window > Package Manager
 4. Click on "Packages: In Project" and choose Unity Registry
 5. Search for "ML Agents" and press install (recommended version 2.0.1)
-6. To test out the pretrained Model, press "Play".
+6. In the Project Explorer, click on Scenes and open Scene_Jumper
+7. To test out the pretrained Model, press "Play".
 ### Training new model:
 1. Open Anaconda Prompt
 2. Activate environment with Python version 3.9.18
